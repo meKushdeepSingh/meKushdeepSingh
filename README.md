@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @meKushdeepSingh
-- 👀 I’m interested in Mobile plus Web development 
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on New Ideas
-- 📫 Reach me @ mekushdeepsingh@gmail.com
-
-Lets Code Together!🧑‍💻
+👋 Hi, I’m Kushdeep Singh (@meKushdeepSingh)
+🚀 Passionate about Mobile & Web Development
+🌱 Currently diving deep into React.js & web3
+🤝 Excited to collaborate on innovative projects and bring ideas to life
+📧 Feel free to reach out: mekushdeepsingh@gmail.com
+💻 Let’s build something amazing together!
