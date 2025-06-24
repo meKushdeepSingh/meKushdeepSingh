@@ -1,6 +1,6 @@
 # Hey, I'm Kush 👋
 
-I'm a Frontend & Mobile Engineer with 5+ years of experience building sleek, scalable apps using **React Native**, **TypeScript**, and **GraphQL** — currently working on the product side at [Push Protocol](https://push.org).
+I'm a Frontend & Mobile Engineer with 6+ years of experience building sleek, scalable apps using **React Native**, **TypeScript**, and **GraphQL** — currently working on the product side at [Push Protocol](https://push.org).
 
 ### 💻 What I Do
 - 📲 Build performant mobile apps with **React Native** + **TypeScript**
