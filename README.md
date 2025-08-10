@@ -11,6 +11,8 @@ I'm a Frontend & Mobile Engineer with 6+ years of experience building sleek, sca
 
 ### 🌱 Currently Exploring
 - ⚛️ **React.js** — Expanding into modern web development
+- 🌐 **Web3** — Decentralized web, blockchain technologies, and the future of user-controlled data
+- 🤖 **AI & Machine Learning** — Latest trends, practical applications, and intelligent agents
 
 
 # 💻 Tech Stack:
