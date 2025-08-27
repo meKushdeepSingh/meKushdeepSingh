@@ -29,6 +29,10 @@ I'm a Frontend & Mobile Engineer with 6+ years of experience building sleek, sca
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![AI Generalist](https://img.shields.io/badge/AI%20Generalist-9867C5.svg?style=for-the-badge&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F9A602.svg?style=for-the-badge&logo=chatgpt&logoColor=white)
+
+
 
 
 
