@@ -37,7 +37,7 @@ I'm a Frontend & Mobile Engineer with 6+ years of experience building sleek, sca
 
 
 # 🚀 Projects & Portfolio
-Check out my work 👉 [kushdeep-singh.notionlinker.com](https://kushdeep-singh.notionlinker.com)
+Check out my work 👉 [My Portfolio](https://portfolio.openinapp.link/mekushdeepsingh)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mekushdeepsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
